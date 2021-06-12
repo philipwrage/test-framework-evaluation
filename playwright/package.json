@@ -1,0 +1,24 @@
+{
+  "name": "playwright-eval",
+  "version": "1.0.0",
+  "description": "Evaluate use of Playwright for test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "test",
+    "testing"
+  ],
+  "author": "Philip Wrage",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipwrage/test-framework-evaluation.git"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.12.2",
+    "playwright": "^1.12.2"
+  }
+}
